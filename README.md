@@ -196,6 +196,3 @@ If the project is a static HTML and CSS build, open `index.html` directly in you
 
 ---
 
-
-
-This project is licensed un
