@@ -2,7 +2,7 @@
 
 Appnetic is a modern, dark-themed landing page for a SaaS sales and analytics platform. It presents the product, key features, customer testimonials, integrations and pricing plans in a polished interface designed to convert visitors into demo bookings and sign-ups.
 
-![Appnetic Home Page](./screenshots/appnetic-home.png)
+![Appnetic Home Page](./screenshots/home.png)
 
 ---
 
@@ -196,6 +196,6 @@ If the project is a static HTML and CSS build, open `index.html` directly in you
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
