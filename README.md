@@ -4,6 +4,15 @@ Appnetic is a modern, dark-themed landing page for a SaaS sales and analytics pl
 
 ![Appnetic Home Page](./screenshots/appnetic-home.png)
 
+## Responsive Homepage
+
+![Appnetic Home Page](./screenshots/homer.png)
+
+## Responsive Contact Us Page
+
+![Appnetic Contact us Page](./screenshots/cur.png)
+
+
 ---
 
 ## Table of Contents
