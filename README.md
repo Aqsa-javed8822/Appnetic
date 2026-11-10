@@ -19,7 +19,7 @@ Appnetic is a modern, dark-themed landing page for a SaaS sales and analytics pl
 9. [Customization](#customization)
 10. [Key Learnings](#key-learnings)
 11. [Author](#author)
-12. [License](#license)
+
 
 ---
 
